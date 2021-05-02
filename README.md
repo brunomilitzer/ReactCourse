@@ -11,3 +11,4 @@
 5. [React Side Effects](https://github.com/brunomilitzer/ReactCourse/tree/main/react-side-effects)
 6. [React Materials Dashboard](https://github.com/brunomilitzer/ReactCourse/tree/main/react-material-dashboard)
 7. [React Food Order App](https://github.com/brunomilitzer/ReactCourse/tree/main/react-food-order-app)
+8. [React Behind the Scenes](https://github.com/brunomilitzer/ReactCourse/tree/main/react-behind-scenes)
