@@ -12,3 +12,4 @@
 6. [React Materials Dashboard](https://github.com/brunomilitzer/ReactCourse/tree/main/react-material-dashboard)
 7. [React Food Order App](https://github.com/brunomilitzer/ReactCourse/tree/main/react-food-order-app)
 8. [React Behind the Scenes](https://github.com/brunomilitzer/ReactCourse/tree/main/react-behind-scenes)
+9. [React Class Based Components](https://github.com/brunomilitzer/ReactCourse/tree/main/react-class-base-components)
