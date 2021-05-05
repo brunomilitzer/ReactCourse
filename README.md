@@ -14,3 +14,5 @@
 8. [React Behind the Scenes](https://github.com/brunomilitzer/ReactCourse/tree/main/react-behind-scenes)
 9. [React Class Based Components](https://github.com/brunomilitzer/ReactCourse/tree/main/react-class-base-components)
 10. [React HTTP Requests](https://github.com/brunomilitzer/ReactCourse/tree/main/react-http-requests)
+11. [React Custom Hooks](https://github.com/brunomilitzer/ReactCourse/tree/main/react-custom-hooks)
+12. [React Custom Realistic Hooks](https://github.com/brunomilitzer/ReactCourse/tree/main/react-custom-realistic-hooks)
