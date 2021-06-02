@@ -18,3 +18,4 @@
 12. [React Custom Realistic Hooks](https://github.com/brunomilitzer/ReactCourse/tree/main/react-custom-realistic-hooks)
 13. [React Forms and User Input](https://github.com/brunomilitzer/ReactCourse/tree/main/react-forms-user-input)
 14. [React Redux](https://github.com/brunomilitzer/ReactCourse/tree/main/react-redux)
+15. [React Advanced Redux](https://github.com/brunomilitzer/ReactCourse/tree/main/react-advanced-redux)
